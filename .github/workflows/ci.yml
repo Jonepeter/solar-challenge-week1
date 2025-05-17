@@ -25,11 +25,11 @@ jobs:
               run: |
                 pip install pytest
                 set PYTHONPATH=src
-                pytest tests
+                pytest tests/
         
                 
 
-                
+
 
 
 
