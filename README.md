@@ -1,21 +1,19 @@
-# <u>**Solar Data Discovery Challenge**</u>
+# **Solar Data Discovery Challenge**
 
 ## **Task 1. Git Environment Setup**
 
-### **Introduction**
+### :sparkles: **Git**
 
-#### :sparkles: **Git**
+### :sparkles: **Github**
 
-#### :sparkles: **Github**
+### :sparkles: **Initialize Repository**
 
-#### :sparkles: **Initialize Repository**
+- Creating repository called `solar-challenge-week1`
 
-##### Creating repository called `solar-challenge-week1`
+#### Clone the repository locally and setup python environment
 
-##### Clone the repository locally and setup python environment
+### :sparkles: **Branching and Commits**
 
-#### :sparkles: **Branching and Commits**
+#### create a branch called `setup-task`
 
-##### create a branch called `setup-task`
-
-##### Commit at least 3 tasks
+#### Commit at least 3 tasks
