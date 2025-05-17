@@ -5,6 +5,9 @@
 .idea
 .vscode
 
+# Datasets
+data/
+
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
 
